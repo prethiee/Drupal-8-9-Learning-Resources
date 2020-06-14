@@ -1,6 +1,6 @@
 ### 101- Getting started
-[Drupal 7](https://www.drupal.org/docs/7)
-[Drupal 8](https://www.drupal.org/docs/8)
+* [Drupal 7](https://www.drupal.org/docs/7)
+* [Drupal 8](https://www.drupal.org/docs/8)
 
 #### Drupal -7
 * Drupal is a modular, opensource web content management framework. 
