@@ -9,24 +9,22 @@
 #### Drupal-8
 * It’s open source
 * It’s Flexible
-*  Mobile ready
+* Mobile ready
 * Fantastic for BIG projects
-* Friendly, social and searchable
-* safe & secure
+* Safe & Secure
 * If you need more, there’s more
-* need help? there’s a great community
-* large and experienced companies
-* drupal is everywhere
+* Need help? there’s a great community
+* Large and Experienced companies prefer them
 * Object oriented programming
-* composer
+* Composer is used as package manager
 * Twig-templating
-* phpunit test
+* PHPUnit tests
 * yaml
 * PSR-4 type folder arrangement
 
 #### Drupal 8 is similar to Symfony 2
 
-* Symfony is heart of Drupal 8 core
+* Symfony is heart of Drupal 8 core and follows MVC model
 * Model - Business Logic
 * View - Display Logic
 * Controller - Glue between model and view
