@@ -30,7 +30,7 @@ Gists
 - kpr(), dsm(), dpm()
 - theming standards/style guide
 - default region to always include
-    -> content
-    -> help
-    -> page_top
-    -> page_bottom
+    * content
+    * help
+    * page_top
+    * page_bottom
