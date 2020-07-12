@@ -1,0 +1,13 @@
+* [How to create Custom Entity in Drupal 8](https://opensenselabs.com/blog/tech/how-create-custom-entity-drupal-8)
+* [How to create a Drupal 8 module via Drupal console](https://www.cloudways.com/blog/how-to-create-a-drupal-8-module-via-drupal-console/)
+* [Drupal 8 Migration: Migrating Basic Data](https://evolvingweb.ca/blog/drupal-8-migration-migrating-basic-data-part-1)
+* [How to import data from a CSV file to Drupal 8](https://drudesk.com/blog/content-import-from-scv-to-drupal8)
+* [Drupal 7 – Render Views Exposed Filter Programmatically](https://eureka.ykyuen.info/2013/01/18/drupal-7-render-views-exposed-filter-programmatically/)
+* [D7-Adding Rules to Your Contrib Module](https://ohthehugemanatee.org/blog/2013/04/18/adding-rules-to-your-contrib-module-so-you-can-reject-half-the-tickets-in-your-queue/)
+* [D8- Create a custom rule action](https://drupal.stackexchange.com/questions/204670/how-do-i-create-a-custom-rule-action)
+* [All about patches](https://www.drupal.org/patch)
+* [Ways to create and send data in the JSON format in Drupal 8](https://www.adcisolutions.com/knowledge/how-send-json-data-drupal-8-site)
+* [OOP in Drupal 8 and how to use it to create a custom module](https://medium.com/drupal-stories-an-insiders-view/oop-in-drupal-8-and-how-to-use-it-to-create-a-custom-module-cf4f5e20a1ab)
+* [Building REST Endpoints with Drupal 8](https://www.mediacurrent.com/blog/building-rest-endpoints-drupal-8/)
+* [Drupal 8: Extending Core Configuration, Extending Core Forms, and Overriding Core Routes](http://www.jaypan.com/tutorial/drupal-8-extending-core-configuration-extending-core-forms-and-overriding-core-routes)
+
