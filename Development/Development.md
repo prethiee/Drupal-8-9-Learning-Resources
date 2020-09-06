@@ -12,4 +12,4 @@
 * [Ways to inject srvices from create and services.yaml](https://www.drupal.org/docs/8/api/services-and-dependency-injection/dependency-injection-for-a-form)
 * [Drupal 8 Entity API cheat sheet](https://www.metaltoad.com/blog/drupal-8-entity-api-cheat-sheet)
 * [An Introduction to RESTful Web Services in Drupal 8](https://drupalize.me/blog/201401/introduction-restful-web-services-drupal-8)
-* [Jaypan Tutorials](http://www.jaypan.com/tutorial)
+* [Extending Core Configuration, Extending Core Forms, and Overriding Core Routes](http://www.jaypan.com/tutorial/drupal-8-extending-core-configuration-extending-core-forms-and-overriding-core-routes)
